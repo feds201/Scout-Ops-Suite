@@ -1,6 +1,3 @@
-[submodule "Scout-Ops-Android"]
-	path = Scout-Ops-Android
-	url = https://github.com/riteshrajas/Scout-Ops-Android.git
 [submodule "Scout-Ops-Server"]
 	path = Scout-Ops-Server
 	url = https://github.com/riteshrajas/Scout-Ops-Server.git
