@@ -3,4 +3,7 @@
 	url = https://github.com/riteshrajas/Scout-Ops-Server.git
 [submodule "Scout-Ops-WindowsApp"]
 	path = Scout-Ops-WindowsApp
-	url = https://github.com/riteshrajas/Scout-Ops-WindowsApp.git
+	url = https://github.com/feds201/Scout-Ops-Client
+[submodule "Scout-Ops-Android"]
+	path = Scout-Ops-Android
+	url = https://github.com/feds201/Scout-Ops-Android
