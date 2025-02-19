@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Scout-Ops-Android",
+            "cwd": "Scout-Ops-Android",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Scout-Ops-Android (profile mode)",
+            "cwd": "Scout-Ops-Android",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Scout-Ops-Android (release mode)",
+            "cwd": "Scout-Ops-Android",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
