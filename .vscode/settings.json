@@ -1,3 +1,37 @@
 {
-    "java.configuration.updateBuildConfiguration": "automatic"
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".github": true,
+        ".idea": true,
+        ".vscode": true,
+        ".gitmodules": true,
+        ".gitignore": true
+    },
+    "hide-files.files": [
+        ".github",
+        ".idea",
+        ".vscode",
+        ".gitmodules",
+        ".gitignore"
+    ],
+    "folder-color.pathColors": [
+        {
+            "folderPath": "Scouting_Suite\\.venv\\share\\",
+            "color": "foldercolorizer.color_66cc99",
+            "badge": "WS"
+        },
+        {
+            "folderPath": "Scouting_Suite\\Assets\\",
+            "badge": "OP"
+        },
+        {
+            "folderPath": "Scouting_Suite\\Autos\\",
+            "badge": "😀"
+        }
+    ]
 }
