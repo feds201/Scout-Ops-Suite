@@ -5,12 +5,7 @@
         "**/.svn": true,
         "**/.hg": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true,
-        ".github": true,
-        ".idea": true,
-        ".vscode": true,
-        ".gitmodules": true,
-        ".gitignore": true
+        "**/Thumbs.db": true
     },
     "hide-files.files": [
         ".github",
