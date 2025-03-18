@@ -5,6 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Build EveryThing",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "P:\\FEDS201\\Scouting_Suite\\runAllBuilds.ps1",
+            "cwd": "${cwd}"
+        },
+    
+        
+        {
             "name": "Scout-Ops-Android",
             "cwd": "Scout-Ops-Android",
             "request": "launch",
@@ -24,5 +33,7 @@
             "type": "dart",
             "flutterMode": "release"
         }
+
+        
     ]
 }

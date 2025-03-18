@@ -14,19 +14,5 @@
         ".gitmodules",
         ".gitignore"
     ],
-    "folder-color.pathColors": [
-        {
-            "folderPath": "Scouting_Suite\\.venv\\share\\",
-            "color": "foldercolorizer.color_66cc99",
-            "badge": "WS"
-        },
-        {
-            "folderPath": "Scouting_Suite\\Assets\\",
-            "badge": "OP"
-        },
-        {
-            "folderPath": "Scouting_Suite\\Autos\\",
-            "badge": "😀"
-        }
-    ]
+   
 }
