@@ -5,14 +5,23 @@
         "**/.svn": true,
         "**/.hg": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        ".github": true,
+        ".idea": true,
+        ".vscode": true,
+        ".gitmodules": true,
+        ".gitignore": true,
+        "Scout-Ops-Android/android": true,
+        "Scout-Ops-Android/.dart_tool": true
     },
     "hide-files.files": [
         ".github",
         ".idea",
         ".vscode",
         ".gitmodules",
-        ".gitignore"
+        ".gitignore",
+        "Scout-Ops-Android/android",
+        "Scout-Ops-Android/.dart_tool"
     ],
    
 }
